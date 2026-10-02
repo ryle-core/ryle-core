@@ -1,4 +1,4 @@
- Hi, I'm [Your Name]
+ Hi, I'm Rachael
 💻 Student Software Developer | Front-End Developer
 
 I'm a passionate student software developer who enjoys turning ideas into clean, responsive, and user-friendly web experiences.
