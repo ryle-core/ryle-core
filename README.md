@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm [Your Name]
+💻 Student Software Developer | Front-End Developer
 
-<!--
-**ryle-core/ryle-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student software developer who enjoys turning ideas into clean, responsive, and user-friendly web experiences.
 
-Here are some ideas to get you started:
+I specialize in building websites and web applications using HTML, CSS, JavaScript, and Bootstrap, while continuously learning new technologies and improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+    🎓 Currently studying Software Development
+
+    💻 Focused on Front-End Web Development
+
+    🌱 Currently improving my JavaScript and software development skills
+
+    🎨 Interested in UI/UX and responsive design
+
+    🛠️ I enjoy building projects that solve real-world problems
+
+    🤝 Open to internships, junior developer opportunities, and collaborations
+
